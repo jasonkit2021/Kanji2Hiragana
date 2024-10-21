@@ -14,6 +14,7 @@ Step 3: run the main program
 python3 kanji2hiragana.py
 
 Step 4: user manual - it is a video to show you how to use it
+https://www.youtube.com/watch?v=MRDfXu9dgkA
 
 Reminder:
 Thank you for reading. I developed this project as a prototype only. You may need to make a program change catering for your specific usage.
